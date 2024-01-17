@@ -1,0 +1,7 @@
+inc a
+tpl a
+half a
+inc b
+jmp -2
+jie a, +5
+jio b, +2

@@ -1,0 +1,2 @@
+Hit Points: 10
+Damage: 10
